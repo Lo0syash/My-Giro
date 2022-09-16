@@ -158,4 +158,22 @@ main{
 .btn-text-main:hover{
     color: white;
 }
+/* ------------------container main prufs------------ */
+.container-main-prufs{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+}
+.text-main-header{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+.arrow-left-main-header{
+    
+}
+.arrow-left{
+
+}
+.arrow-right{
+}
 /*-----------footer-----------*/
