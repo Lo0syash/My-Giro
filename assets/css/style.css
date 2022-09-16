@@ -169,11 +169,21 @@ main{
     font-family: 'Open Sans', sans-serif;
 }
 .arrow-left-main-header{
-    
+ 
 }
 .arrow-left{
-
+    cursor: pointer;
 }
 .arrow-right{
+    cursor: pointer;
+}
+/* ----------------iamge prufs---------------- */
+.main-prufs{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 100px 100px 100px;
+}
+.image-prufs{
+    width: 100px;
 }
 /*-----------footer-----------*/
