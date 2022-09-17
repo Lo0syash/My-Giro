@@ -181,9 +181,37 @@ main{
 .main-prufs{
     display: flex;
     justify-content: space-between;
-    padding: 100px 100px 100px 100px;
+    padding: 100px 100px 10px 100px;
 }
 .image-prufs{
     width: 100px;
+}
+
+.main-prufs-text{
+display: flex;
+justify-content: space-between;
+padding: 0px 70px 110px 70px;
+
+}
+.text-image-prufs{
+    font-size: 18px;
+}
+.text-image-prufs.exec{
+    margin-left: 40px;
+}
+/*----------------------faq----------------------*/
+.faq-container{
+    width: 100%;
+}
+.text-faq{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 0 40px 0;
+}
+.main-text-faq{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 0;
+    color: gray;
 }
 /*-----------footer-----------*/
